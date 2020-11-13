@@ -1,0 +1,271 @@
+Big Data.
+Big Insights.
+Big Impact.
+8 ííââífíàºãlâsª
+QlikQ
+
+B'g Data ,.
+The next big idea to transform your business
+could come from anyone—if everyone's armed
+with the right information.
+
+Collecting “big data” was once big news.
+
+But companies are now realizing that big data
+
+projects aren't delivering their expected ROI
+
+because building & repository is just part of
+
+the equation.
+
+How and Where this data can provide value to
+
+the organization is the other key element—and
+
+this includes how organizations combine data from
+different sources to extract insights and
+
+drive transformative decision—making.
+
+Qlikªªº has helped thousands of organizations gain
+big insight from big data—for big impact.
+
+B'g Ins'ghts C
+Accessible, associative big data exploration for nearly
+any use case.
+
+Traditional data analysis models limit What data you can see and
+query, and how data is interconnected. Olik's associative model
+instead identifies every relationship (and the unexpected ways
+data isn't related) across all of your data, including connectivity
+With big data repositories and solutions.
+
+Then every user—notjust data scientists—can dive in to big data
+through simple, seIf—service, interactive visual dashboards and
+natural language searches, sharing and building on their insights.
+Data governance and management stay in the hands of |T in
+
+this buiId—once, deploy—everywhere centralized environment that
+maximizes data and application re—use.
+
+B i 9 I m pact
+
+Accelerate ROI while transforming your business
+in an agile, governed environment.
+
+Olik customers are using our solutions to make big
+data accessible to teams across the enterprise,
+providing detailed insight and fostering & culture of
+data exploration Where people can quickly validate
+ideas and intuitions. They are getting & complete view
+of their business and the forces that impact it—and
+fast ROI on their big data.
+
+)
+&,
+significant value for
+8 of our customers
+
+over user—created apps ,
+400 te ra bytes
+of data
+from dozens of sources Global specialty biopharmaceutical company Shire plc
+uses Olik across its enterprise as a key element of the
+Ql-k Shire Analytics Marketplace—a common architecture for
+' nºw converting Shirds enterprise data into useful information.
+used by Olik empowers Shirãs data analysis culture by allowing the
+com em to:
+40% p v
+ºf Shirº Wºrkfºrce ' Avoid time—consuming extraction, transformation, and
+loading and get the information Within seconds—even With
+very large data sets.
+' Offer easy on—demand data discovery and dashboard
+creation to every user.
+' Integrate data from nearly any source, including advanced
+statistical computing and graphics environments.
+*Mullíkín,WaIter.(June13,2018)”Harnessing Big Data to Improve PatientJourneys” [Blog post] Retrievedfrom
+https://upshotstories.com/stories/hamessing-big-data-to-ímprove-patient-journeys
+
+b' | I '
+rows of data
+Akindo Sushiro is the world's premier conveyor—belt sushi chain. Report creation
+It operates approximately 430 restaurants in Japan, employs 40,000 reduced from
+workers, and welcomes 120 million customers annually (roughly the 3—4 days
+population of Japan). RFID tags on all of its plates allow Akindo Sushiro to tº 1 d ay
+monitor freshness, sales trends, waste, and other metrics. Olik empowers
+the company to get true insight from this robust data so that it can:
+' Significantly reduce waste—related costs.
+' Scale its analytical capabilities as the data continues to grow.
+' Roll out the analytics across multiple departments for ongoing sales analysis
+and new product development.
+' Give users the ability to conduct analysis With a high degree of freedom.
+' Test intuition and experience against data to identify previously ' ' x
+unnoticed problems. 1 bl ' | Ion
+data items ,
+“The truth only came to light once we had analyzed sales of related products on Qlik.”
+— Akihiro Onoe, Corporate Planning Division, Akindo Sushiro
+
+º/
+30 o
+in ordered chest x—rays
+Texas Children's Hospital wanted to improve the quality
+of its care by harnessing the power of its massive data
+holdings. Using Olik enables the hospital to:
+' Streamline operational processes, such as staffing
+and decision support.
+' Bridge the gap between clinicians and administrators.
+' Boost quality of care through more informed
+treatment plans and better service standards.
+' Document high—performing teams for
+90 d ays best practices.
+to develop
+
+Supplier analytics app &
+alone serves
+30 m ' I I 'on
+records per day to British building merchant supplier and home—improvement
+3 000 leader Travis Perkins plc uses Olik to:
+, . ' Seamlessly load and access its big data.
+suppliers
+' Enable suppliers to only access and analyze data that
+is relevant to them.
+' Leverage insights to quickly improve on—time delivery.
+' Track and optimize staffing.
+. Track and target pricing and customer rebates.
+
+] Time to insight
+reduced from
+Analytics provider DarkMatterde is helping professionals Tri | | ion $ WGGkS tO
+ln healthcare and pharmaçeuhcgls Improve patient of rows of data mlnutes
+and busmess outcomes With Qllk. Ollk allows users of
+DarkMatterde's solution, MedFuseT'V', to: ,
+' Transform historical claims data, physician records
+and social networking data into a powerful tool for
+insight that helps accelerate drug delivery and improve *
+patient treatment outcomes.
+' Cut time on pre—Iaunch targeting for clinical trials.
+' Make the process of protocol evaluations and analysis
+of patient process significantly easier.
+“Profiling first with Qlik with our large data sets, we were able to sort billions of rows of data into categories
+we never could before; it is a fantastic way to easily see hidden connections found in the data; ranging in use
+from disease surveillance to R&D, marketing and sales. We can sort the data by patient conditions, geographic
+dimensions, diagnosis, and medical procedures as well as dimensions on physician affiliations, relationships,
+and specialty.”
+— Joe Paciulli, VP Decision Support & Technology, DarkMatterde
+
+M ' I I '
+( % datasets generated
+every 5 seconds
+
+Hammerer Aluminium Industries, an Austria—based
+
+manufacturer of high—grade aluminum profiles, 3D
+
+sought to generate standard KPIs and extract BI
+
+from numerous disparate data systems to quickly applications
+
+provide decision—makers With & clear, unified view of Implemented
+
+performance. Olik enables the company to:
+
+' Standardize on a single organizational BI system.
+
+' Gain fast access to useful views of robust data
+
+across R&D, operations, sales, distribution,
+logistics, and more.
+(
+
+“Qlik turns our production data into valuable information. Despite having a range of disparate data systems,
+we can now analyze big data fast. We save 90 percent of time on reports and have a standardized KPI
+system—just brilliant.”
+— Manfred Schrattenecker, |T Director, Hammerer Aluminium Industries
+
+bi I I:?o n
+games played
+per month Popular online gaming developer King.com is using
+1 o O Olik over & Hadoop—based system to:
+' Make huge volumes of gaming data accessible
+Olik apps to the business.
+used daily _ . . . .
+' Dellver rapld busmess maghts.
+' Empower business users With seIf—service analytics.
+' Empower marketing to target games more effectively
+based on multidimensional customer insights.
+' Understand return on its marketing investments.
+ROI ' Inform future game design.
+achieved in
+a few
+months &
+
+More than
+More than 30 apps
+1 b' | I 'o n
+rows and
+As & recreational provider of online and retail gaming 1 25 COI u m ns
+outlets, Paddy Power wanted to tap in to the potential in 1 app alone
+of the gigabytes of data it captures each year. With Olik,
+the company can:
+' Analyze in moments information that previously
+took days.
+' Differentiate itself through insights gleaned from
+retail performance and other key business analyses.
+. Immediately address transaction issues in areas
+like customer registration, improving satisfaction.
+“QIik delivered our first application within hours—a real eye-opener—providing Paddy Power with the
+confidence to look at business intelligence and analytics as a real business differentiator. We continue to drive
+extensive value to the business with fast implementations and the accurate information we receive with Qlik."
+— Conor McMenamin, Head of Business Intelligence, Paddy Power
+
+A Platform for B'g
+Data Ins'ght and ROI
+The Qlik platform drives analytic innovation and maturity
+and supports agile development. It allows users and developers
+to explore, experiment, and learn quickIy—delivering value to the
+business at a pace that matches the deluge of new information you
+collect daily.
+
+' Gain & complete view of your business to make better decisions.
+' Access and explore big data—and all data—anywhere, anytime.
+' Foster & culture of collaboration and data exploration.
+
+' Scale as your business grows.
+
+Qlik's Unique Approach
+QIik supports & Wide variety of big data analytic needs, like market basket
+analysis, customer segmentation, and operational analytics, all Within a
+common platform. We help you future—proof your big data investments in .
+several ways:
+. Rich management and governance capabilities.
+' Open APIs that make introducing new capabilities simple. &
+0 A broad partner ecosystem that includes most big data technology
+vendors, to ensure that your investments work well together.
+' Linear, predictable scalability to maintain high performance ,
+regardless of how many users, how much data is being analyzed,
+how complex your apps become, or Whether they're deployed on
+premise or in the cloud. .
+
+QI ' k Qâ
+
+About QI i k
+
+Olik is the leading data analytics platform and the pioneer of user—driven business intelligence. Its portfolio
+of cloud—based and on—premise solutions meets customers” growing needs from reporting and seIf—service
+visual analysis to guided, embedded and custom analytics, regardless of Where data is located. Customers
+using Olik Senseºªª, OIikVieWªª and Olik Sense Cloud, gain meaning out of information from multiple sources,
+exploring the hidden relationships Within data that lead to insights that ignite good ideas. Headquartered in
+Radnor, Pennsylvania, Olik does business in more than 100 countries With over 45,000 customers globally.
+For more Informatlon, VISIÍ gllk.com/b|gdata.
+
+glik.com &
+© 2018 OlikTech International AB. All rights reserved. Olik©, Olik Sense©, OlikVieW©, OlikTech©, Olik Cloud©, Olik DataMarket©, Olik Analytics Platform©, Olik NPrinting©,
+Olik Connectors©, Olik GeoAnalytics©, Olik Core©, Associative DifferenceTM and the OIikTech logos are trademarks of OlikTech International AB Which have been registered in
+multiple countries. Other marks and logos mentioned herein are trademarks or registered trademarks of their respective owners.
+
+qllk.com
+© 2018 OlikTech International AB. All rights reserved. Olik©, Olik Sense©, OlikVieW©, OlikTech©, Olik Cloud©, O1i1< DatalVlarketGª), O1i1< Analytics Platform©, Olik NPrinting©, Olik
+Connectors©, Olik GeoAnalytic5©, Olik Core©, Associative Difference©, Lead With DataW', Olik Data Catalystw, Olik Associative Big Data IndexW' und die O1ikTech—Logos sind in mehreren
+I_àndem eingetragene Marken von OlikTech International AB. Alle anderen hier genannten Marken und Logos sind Marker] oder eingetragene Marken derjeweiligen Eigentúmer.
+
